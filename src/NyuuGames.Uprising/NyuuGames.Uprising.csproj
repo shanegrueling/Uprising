@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NyuuGames.Mugen.ECS\NyuuGames.Mugen.ECS.csproj" />
+    <ProjectReference Include="..\NyuuGames.Mugen.Veldrid\NyuuGames.Mugen.Veldrid.csproj" />
+    <ProjectReference Include="..\NyuuGames.Mugen\NyuuGames.Mugen.csproj" />
+  </ItemGroup>
+
+</Project>
